@@ -4,7 +4,7 @@ _Text Pastry_ is a free plugin for [Sublime Text](http://www.sublimetext.com/), 
 
 
 ## Features include: ##
-
+c
 - Incremental numbers/sequences _(1, 2, 3 or 100, 80, 60)_
 - Repeatable number ranges _(1, 2, 3, 4, 1, 2, 3, 4 or 2, 1, 2, 1, 2, 1)_
 - Generate UUIDS _(ba18f7fc-c387-46da-9544-ed32e49ce6f8 or D306E86C-918F-4551-95A9-CB9865A4DD2F)_
@@ -351,7 +351,7 @@ Removes the matches form the current selection. This example will remove all non
 
 There are some additional shortcuts for remove:
 
-Comamnd | Action
+Command | Action
 --- | ---
 remove lines | Removes empty lines (lines containing only spaces will be count as empty).
 remove leading | Removes leading spaces.
